@@ -1,4 +1,4 @@
-# Troupe
+# Cast
 A metadata driven tabletop RPG Static Book Generator
 
 ## The Idea
