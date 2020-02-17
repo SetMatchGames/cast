@@ -1,0 +1,122 @@
+# Equipment
+
+# Storage, packing, and equiping
+
+[game]
+name = "Cast"
+text = """Cast is a roleplaying game Powered by the Apocalypse for one
+GM and 2-6 players. The game has rules to let us play with the things
+we can't or don't want to do sitting at the table with our
+friends. For this game that's everything physical and violent, but not
+mental or social."""
+
+[[chapters]]
+name = "Rules"
+text = """[... basic idea of GM/Player RPGs ...]
+
+This RPGs rules all describe characters (see <section Characters>) and
+what they can do (see <section Moves>) everything else is storytelling
+and role play
+"""
+
+# Moves
+
+[[sections]]
+name = "Moves"
+chapter = "Rules"
+text = """Any time a player describes their character doing something
+that is covered by a move in the game they must follow the rules
+defined by the move (and roll the dice). Any time a player wants the
+effects of a move in the game they must describe their character doing
+that move (and roll the dice).
+
+Characters cannot do moves without assigning dice to them during
+character creation or advancement. A character with dice in a move can
+do the move, a character without dice in a move cannot do the move."""
+
+[[passages]]
+name = "The Dice"
+section = "Moves"
+text = """The description of a move will always define what dice to
+roll and how to intrepret the results by describing how to calculate a
+Difficulty rating and a Complexity rating based on choices, and the
+situation. Always roll all the unexhausted (see <section exhaustion>)
+dice you have in the move and no more. Always roll 6 sided dice.
+
+There are three possible outcomes to any move. It either went well,
+went wrong, or went weird. Roll the dice to find out, count up the
+number of dice over the difficulty rating, if that's greater than or
+equal to the complexity it went well, if it's lower it went wrong
+unless it's just one lower, then it went weird. The description of the
+move will tell you what happens in each case.
+
+Notation for this is Complexity over Difficulty. For example if a move
+has a complexity of 2 and a difficulty of 3 you'd need 2 over 3 for it
+to go well, where with exactly 1 over 3 it would go weird and with 0
+over 3 it goes wrong"""
+
+[[passages]]
+name = "Exhaustion, Rest, and Recovery"
+section = "Moves"
+text = """Whenever any character rolls, they must exhaust the number
+of dice that were not over the difficulty up to the complexity
+rating. For example, if you roll 6 dice and need 2 over 3, up to 2
+will be exhausted. If all 6 are over 3 nothing is exhausted because
+dice over the difficulty can never be exhausted, but if none were over
+3 then 2 would be exhausted, because the complexity limits how many
+are exhausted. Exhausted dice cannot be roled until they are recovered
+through rest. Exhausted stat dice recover with rest listed below, and
+moves will describe what rest level is needed to revocer its
+dice. Each level recovers everything listed in previous levels"""
+
+[[section]]
+name = "Damage"
+chapter = "Rules"
+text = """Under some circumstances a character will take damage. Some
+of these are up to the GM, like if you fall down the stairs, you might
+take some damage. Other times a move will specify that some character
+takes damage. In either case the character as taken damage and it
+should be tracked on the character sheet. There are ways to recover
+damage, and there are reprecussions to being damaged."""
+
+[[sections]]
+name = "Character Creation and Advancement"
+chapter = "Rules"
+
+text = """Characters are made up of the history and roleplay their
+players put into them as well as the dice the player has put into
+their stats and moves. Stats define their basic physical attributes, and
+moves that define certain things they can do."""
+
+[[passages]]
+name = "Character Creation"
+section = "Character Creation and Advancement"
+text = """To create a character describe them physically, describe
+their personality, write a backstory, and assign their dice. Decide
+with your playgroup how many dice to start with.
+
+To assign dice, start with 1 in each stat, and 1 in each basic
+move. Then assign the number of dice your group decided on to stats
+and moves. That's it."""
+
+[[passages]]
+name = "Character Advancement"
+section = "Character Creation and Advancement"
+
+text = """Characters advance through the cource of play and by going
+through certian situations and events. It's the players responsibility
+to regocnize the situations and to advance their character, though
+everyone else should help keep an eye out."""
+
+[[passages]]
+name = "Basic Moves"
+section = "Character Creation and Advancement"
+text = """All characters have 1 die in each basic move. They may add
+dice to basic moves during character creation or advancement"""
+
+[[passages]]
+name = "Special Moves"
+section = "Character Creation and Advancement"
+text = """Characters only have special moves they've added dice to
+during character creation or avancement."""
+

@@ -1,0 +1,14 @@
+[[cogs]]
+passage = "stats"
+name = "Dexterity"
+text = "How quickly and accurately a character can move and do moves"
+
+[[cogs]]
+passage = "stats"
+name = "Strength"
+text = "How much force a character can exert"
+
+[[cogs]]
+passage = "stats"
+name = "Toughness"
+text = "How dificult it is to damage a character"

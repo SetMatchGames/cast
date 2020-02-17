@@ -1,0 +1,66 @@
+# Basic Moves
+
+[[cogs]]
+passage = "Basic Moves"
+name = "Strike"
+text = """
+difficulty: 0
+complexity: 0
+recovery: Breather
+
+Attack
+
+Strike another character dealing up to your unexhausted strength in damage.
+
+If that character is trying to avoid the strike, increase the
+complexity by their unexhausted dexterity.
+
+Increase complexity by their unexhausted toughness.
+
+Increase difficulty by the mount of damage you are trying to do.
+
+Roll strike, strength and dexterity dice"""
+
+[[cogs]]
+passage = "Basic Moves"
+name = "shoot"
+text = """
+difficulty: 1
+complexity: 1
+recovery: Breather
+
+Attack
+
+Shoot another character with a ranged weapon, dealing that weapons
+damage.
+
+If that character is trying to avoid the shot, increase complexity by
+their unexhausted dexterity.
+
+Increase complexity by their unexhausted toughness.
+
+Increase difficulty by the difficulty rating of the weapon.
+
+Roll shoot and dexterity."""
+
+[[cogs]]
+passage = "Basic Moves"
+name = "Manuver"
+text = """
+difficulty: 2
+complexity: 2
+recovery: Breather
+
+Gain and advantage by moving into an advantagous position.
+
+Either gain any number of bonus dice for attacks, or increase
+complexity of attacks against you by any amount for any number of
+moves (or until you stop fighting).
+
+Increase complexity for the number of moves.
+
+Increase difficulty for the number of bonus dice or the increase in
+complexity of attacks against you.
+
+roll Manuver and Dexterity"""
+

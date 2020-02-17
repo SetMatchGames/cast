@@ -1,0 +1,75 @@
+# Special Moves
+
+[[cogs]]
+passage = "Special Moves"
+name = "heal"
+text = """
+difficulty: 2
+complexity: 1
+recovery: restful sleep
+
+Exhaust any of your stat dice per complexity to remove any amount of
+damage from any characters you can see.
+
+Complexity increases by 1 for each 5 feet away each target is from
+you, by 1 for each target beyond the first.
+
+Difficulty increases by 1 for each damage you want to heal
+
+Roll heal dice"""
+
+[[cogs]]
+passage = "Special Moves"
+name = "harm"
+text = """
+difficulty: 1
+complexity: 1
+revocery: restful sleep
+
+Exhaust any of your stat dice per complexity of this spell to deal any
+amount of damage to any characters you can see.
+
+Complexity increases by 1 for each 5 feet away each target is from
+you, by 1 for each target beyond the first, and by 1 for each damage
+you want to deal.
+
+Roll harm dice."""
+
+[[cogs]]
+passage = "Special Moves"
+name = "energize"
+text = """
+difficulty: 3
+complexity: 1
+recovery: restful sleep
+
+Exhaust any of your stat dice per complexity of this move to grant
+the affects of any level of rest to any characters you can
+see.
+
+Complexity increases by 1 for each 5 feet away each target is from
+you, by 1 for each target beyond the first.
+
+Difficulty increases by 1 for each level of rest granted (see <rest
+levels passage>)
+
+Roll energize dice"""
+
+[[cogs]]
+passage = "Special Moves"
+name = "exhaust"
+text = """
+difficulty: 2
+comlexity: 4
+recovery: vacation
+
+Exhaust any of your stat dice per complexity of this spell to exhaust
+any number of any characters dice you can see.
+
+Complexity increases by 1 for each 5 feet away each target is from
+you, by 1 for each target beyond the first.
+
+Difficulty increases by 1 for each level of rest required to recover
+those dice (see <rest levels passage>)
+
+Roll exhaust dice"""

@@ -1,0 +1,63 @@
+[[cogs]]
+name = "Breather"
+passage = "Exhaustion, Rest, and Recovery"
+text = """
+Level: 1
+Two rounds without moves or being attacked. Recover 1 exhausted stat die.
+"""
+
+[[cogs]]
+name = "Rest"
+passage = "Exhaustion, Rest, and Recovery"
+text = """
+Level: 2
+15 minutes without exhausting any dice. Recover all exhausted stat dice.
+"""
+
+[[cogs]]
+name = "Meal"
+passage = "Exhaustion, Rest, and Recovery"
+text = """
+Level: 3
+An hour with food and drink without exhausting any dice.
+"""
+
+[[cogs]]
+name = "Nap"
+passage = "Exhaustion, Rest, and Recovery"
+text = """
+Level: 4
+30 minutes of sleep.
+"""
+
+[[cogs]]
+name = "Restful Sleep"
+passage = "Exhaustion, Rest, and Recovery"
+text = """
+Level: 5
+8 hours of sleep.
+"""
+
+[[cogs]]
+name = "Weekend"
+passage = "Exhaustion, Rest, and Recovery"
+text = """
+Level: 6
+  2 days without exhausting any dice
+"""
+
+[[cogs]]
+name = "Vacation"
+passage = "Exhaustion, Rest, and Recovery"
+text = """
+Level: 7
+7 days without exhausting any dice
+"""
+
+[[cogs]]
+name = "Retirement"
+passage = "Exhaustion, Rest, and Recovery"
+text = """
+Level 8
+7 years without exhausting any dice
+"""

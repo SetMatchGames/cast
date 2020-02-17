@@ -1,0 +1,26 @@
+# Character Advancement
+
+[[cogs]]
+name = "Move Advancement"
+passage = "Character Advancement"
+text = """Characaters get better at moves when they are at the edges
+of their current abilities and they are not too exhausted. Too easy or
+too hard the don't learn. When things go well or go wrong moves don't
+advance. Moves advance when it goes weird and the character is not too
+exhausted.
+
+Whenever a move goes weird, and the character has less than 2
+exhausted dice gain a die in that move at the next level 4 rest"""
+
+[[cogs]]
+name = "Stat Advancement"
+passate = "Character Advancement"
+
+text = """Characters improve their stats when they push them past
+exhaustion. When a roll meets all of the following criteria mark the
+relevant stat. At each restful sleep if there are 3 or more marks on a
+stat erace all marks and assign a die to that stat
+
+1. The move went wrong
+2. Stat dice were rolled
+2. It resulted in 3 or fewer of those stat dice left unexhausted"""

@@ -1,0 +1,19 @@
+# Damage
+
+[[cogs]]
+section = "Damage"
+name = "Complexity from Damage"
+text = """Add one complexity to every move for every damage"""
+
+[[cogs]]
+section = "Damage"
+name = "Death"
+text = """If a characters toughness are ever completely exhausted,
+they die. Unless they don't ahve any damage, then they just pass out
+for 8 hours."""
+
+[[cogs]]
+section = "Damage"
+name = "Damage Recovery"
+text = """Recover 4 damage for every Vacation of rest. Recover 1
+damage for every Weekend."""
