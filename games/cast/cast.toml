@@ -1,7 +1,3 @@
-# Equipment
-
-# Storage, packing, and equiping
-
 [game]
 name = "Cast"
 text = """Cast is a roleplaying game Powered by the Apocalypse for one
@@ -69,7 +65,7 @@ through rest. Exhausted stat dice recover with rest listed below, and
 moves will describe what rest level is needed to revocer its
 dice. Each level recovers everything listed in previous levels"""
 
-[[section]]
+[[sections]]
 name = "Damage"
 chapter = "Rules"
 text = """Under some circumstances a character will take damage. Some
@@ -82,7 +78,6 @@ damage, and there are reprecussions to being damaged."""
 [[sections]]
 name = "Character Creation and Advancement"
 chapter = "Rules"
-
 text = """Characters are made up of the history and roleplay their
 players put into them as well as the dice the player has put into
 their stats and moves. Stats define their basic physical attributes, and
@@ -102,7 +97,6 @@ and moves. That's it."""
 [[passages]]
 name = "Character Advancement"
 section = "Character Creation and Advancement"
-
 text = """Characters advance through the cource of play and by going
 through certian situations and events. It's the players responsibility
 to regocnize the situations and to advance their character, though
@@ -120,3 +114,23 @@ section = "Character Creation and Advancement"
 text = """Characters only have special moves they've added dice to
 during character creation or avancement."""
 
+# Gear
+
+[[sections]]
+name = "Gear"
+chapter = "Rules"
+text = """Gear may modify dice in a move or stats, difficulties, or
+complexities. It's a way to prepare ahead of time for situations you
+expect to find yourself in or want to be prepaired for. It's often a
+tradeoff, not only between what you bring and what you leave behind,
+but many pices of gear will have both positive and negative
+effects."""
+
+[[passages]]
+name = "Storing, packing, and equiping gear"
+section = "Gear"
+
+text = """Gear only applies when it's equipped otherwise it's just
+heavy. You can only store so much of it in any place, you can only
+take so much of it with you while you travel, and you can only equip
+so much of it at once."""
