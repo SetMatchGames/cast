@@ -35,3 +35,7 @@ If stats are typed, we could include things like a roll20 site or app that could
   * Weapon profficiencies
 * Enum
   * status effects
+
+# Reference
+
+https://docs.google.com/spreadsheets/d/12P-OOgtrOxzfO65JXSxYpeSK7-XqD4j4S6DIBMef98o/edit#gid=0
